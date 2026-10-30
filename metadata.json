@@ -1,0 +1,6 @@
+{
+  "name": "ระบบตรวจสอบและวิเคราะห์คะแนนสอบรายบุคคล (Student Score Portal)",
+  "description": "ระบบตรวจสอบคะแนนสอบรายบุคคล เปรียบเทียบคะแนนกับค่ากลางและสถิติภาพรวมห้องเรียนอย่างเป็นความลับ พร้อมวิเคราะห์ผลการเรียนรู้รายข้อและนำเข้าข้อมูลจาก Google Sheets",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
